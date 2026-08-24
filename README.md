@@ -1,4 +1,3 @@
-<img width="1389" height="894" alt="Screenshot 2026-08-24 074512" src="https://github.com/user-attachments/assets/0890ea7a-6bed-41eb-b0ae-f8ea8355aa87" />
 # 🌍 Worldwide Earthquake Data Engineering Pipeline (Microsoft Fabric)
 
 An end-to-end Data Engineering solution built in **Microsoft Fabric** using the **Medallion Architecture**. This pipeline ingests live seismic event data from the USGS API, processes and cleans it using PySpark, aggregates business metrics, and serves it via Power BI.
@@ -24,3 +23,6 @@ An end-to-end Data Engineering solution built in **Microsoft Fabric** using the 
 │   └── 03_gold_aggregation.py
 ├── architecture.png
 └── README.md
+
+
+<img width="1389" height="894" alt="Screenshot 2026-08-24 074512" src="https://github.com/user-attachments/assets/0890ea7a-6bed-41eb-b0ae-f8ea8355aa87" />
