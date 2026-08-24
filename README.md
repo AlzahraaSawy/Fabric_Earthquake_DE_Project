@@ -21,13 +21,9 @@ An end-to-end Data Engineering solution built in **Microsoft Fabric** using the 
 │   ├── 01_bronze_ingestion.py
 │   ├── 02_silver_cleaning.py
 │   └── 03_gold_aggregation.py
-├── architecture.png
+├── Dashboard
 └── README.md
 
----
-
-## 📐 Architecture Overview
-
-<img width="1389" height="894" alt="Screenshot 2026-08-24 074512" src="https://github.com/user-attachments/assets/0890ea7a-6bed-41eb-b0ae-f8ea8355aa87" />
+<img width="1389" height="894" alt="Screenshot 2026-08-24 074512" src="https://github.com/user-attachments/assets/13d02492-57c7-4ff9-8daf-6d40414b677d" />
 
 
