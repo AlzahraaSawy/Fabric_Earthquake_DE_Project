@@ -26,5 +26,8 @@ An end-to-end Data Engineering solution built in **Microsoft Fabric** using the 
 
 ---
 
+## 📐 Architecture Overview
+
 <img width="1389" height="894" alt="Screenshot 2026-08-24 074512" src="https://github.com/user-attachments/assets/0890ea7a-6bed-41eb-b0ae-f8ea8355aa87" />
+
 
